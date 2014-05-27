@@ -13,6 +13,7 @@ public class Testfibo {
 	@Before
 	public void setUp() throws Exception {
 		
+		
 		fibonacci = new Fibonacci();
 	}
 
